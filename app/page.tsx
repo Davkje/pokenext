@@ -14,7 +14,7 @@ export default function Home() {
 				/>
 				<div className="font-mono">
 					<p>PokeNext</p>
-					<button className="border p-1 mt-2 hover:border-white active:bg-gray-900">Button</button>
+					<button className="border p-1 pl-3 pr-3 mt-2 hover:border-white active:bg-gray-900">Button</button>
 				</div>
 			</main>
 		</div>
